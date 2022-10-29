@@ -1,0 +1,25 @@
+
+
+.navigation
+{
+ width:100%;
+ margin: 0 auto;
+ padding: .3rem 1rem;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.munes ul
+{
+ display: flex;
+ gap: 1rem;
+}
+.munes li
+{
+    list-style: none;
+    font-size: 1rem;
+    color:#191919;
+    font-weight: 600;
+    font-family: poppins;
+}
